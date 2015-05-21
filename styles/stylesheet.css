@@ -165,3 +165,14 @@ width:400px;
 
     }
 
+
+.margin {
+
+margin-left:auto;
+margin-right:auto;
+width:98%;
+    padding-top:10px;
+    padding-bottom:10px;
+ border-bottom: solid; 
+ border-radius:1px;  
+}
