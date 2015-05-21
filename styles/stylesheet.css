@@ -146,6 +146,7 @@ width:400px;
 
 .glyphicon {
     font-size: 3.5em;
+    color:#BF1e2e;
 }
 
 #row2 {
@@ -164,13 +165,18 @@ width:400px;
 
 }
 
+#appDetails p, h4 {
+
+    font-weight:bold;
+
+}
+
 #appDetailsTitle {
 
     padding:0;
     margin:0;
     padding-top:20px;
     padding-left:27px;
-
     }
 
 .testimonials {
@@ -187,5 +193,6 @@ width:98%;
     padding-bottom:10px;
  border-bottom: solid; 
  border-radius:1px;  
+border-color:#BF1e2e;
 }
 
