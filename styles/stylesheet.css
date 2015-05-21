@@ -35,7 +35,32 @@ a:active {
 }
 
 body {
-	
+	margin:0 auto;
+}
+
+.mainHeader{
+    width: 1200px;
+    height: 400px;
+    background-image:url('../images/mainHeader.png');
+}
+
+.logo {
+    margin-top: 20px;
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+}
+
+.headerText{
+    text-align:center;
+    margin-top:20px;
+}
+
+.appDownload{
+    margin-top: 20px;
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
 }
 
 /*Carousel style */
@@ -52,4 +77,9 @@ body {
 
 }
 
-
+/* Subscribe section styles*/
+#subscribe{
+    width:90%;
+    margin:0 auto;
+    height:auto;
+}
