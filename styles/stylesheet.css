@@ -77,4 +77,13 @@ body {
 
 }
 
+#subscribe {
 
+    background-color:black;
+}
+
+#subscribe h1, label {
+
+    color:white;
+
+}
