@@ -89,9 +89,6 @@ body {
 
 }
 
-<<<<<<< HEAD
-
-
 .carousel-caption {
 
     padding-top:50px;
@@ -105,9 +102,8 @@ body {
     font-size:100px;
 
 }
-=======
-/*glyphicon sizing*/
+
 .glyphicon {
     font-size: 3.5em;
 }
->>>>>>> origin/master
+
