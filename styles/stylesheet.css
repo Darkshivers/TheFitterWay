@@ -38,8 +38,18 @@ body {
 	
 }
 
+/*Carousel style */
 #banner {
-    margin-left:auto;
-    margin-right: auto;
-    width: 90%;
+ 
+
+
 }
+
+.carousel-inner > .item > img {
+
+    width: 100%;
+    height:auto;
+
+}
+
+
