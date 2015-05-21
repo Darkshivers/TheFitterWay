@@ -70,6 +70,7 @@ body {
 .navbar {
 
     margin-bottom:0;
+    position: fixed;
 }
 
 /*Carousel style */
