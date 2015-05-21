@@ -123,11 +123,18 @@ width:400px;
 
 }
 
+.carousel {
+    
+    padding-top:51px;
+
+}
+
 .carousel-caption {
 
     padding-top:50px;
     top: 0;
     bottom: auto;
+
 }
 
 .carousel-caption h1 {
