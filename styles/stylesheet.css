@@ -164,9 +164,23 @@ width:400px;
 
     }
 
+<<<<<<< HEAD
 .testimonials {
     width:100%;
     padding-left:20px;
     padding-right:20px;
 }
 
+=======
+
+.margin {
+
+margin-left:auto;
+margin-right:auto;
+width:98%;
+    padding-top:10px;
+    padding-bottom:10px;
+ border-bottom: solid; 
+ border-radius:1px;  
+}
+>>>>>>> origin/master
