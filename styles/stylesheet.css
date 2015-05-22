@@ -206,19 +206,43 @@ body {
 
 }
 
-.margin {
-margin-left:auto;
-margin-right:auto;
-width:98%;
-    padding-top:10px;
-    margin-bottom:10px;
- border-bottom: solid; 
- border-radius:1px;  
-border-color:#BF1e2e;
+ .margin {
+-margin-left:auto;
+-margin-right:auto;
+-width:98%;
+    margin-left:auto;
+    margin-right:auto;
+    width:98%;
+     padding-top:10px;
+     margin-bottom:10px;
+- border-bottom: solid; 
+- border-radius:1px;  
+-border-color:#BF1e2e;
+    border-bottom: solid; 
+    border-radius:1px;  
+    border-color:#BF1e2e;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+.container{
+    margin-top:10px;
+    width: 100%;
+    padding-left:20px;
+    padding-right:20px;
+    text-align:center;
+ }
+ 
+.btn-group-vertical{
+    width: 100%;
+    padding-left:20px;
+    padding-right:20px;
+
+}
+
+
+.collapse{
+    text-align:center;
+
+}
 #feedback { 
   height: 103px; 
   width: 104px; 
@@ -252,17 +276,3 @@ border-color:#BF1e2e;
 #feedback a:hover { 
   background: #06c; 
 }
-
-=======
-.btn-group-vertical{
-    width: 100%;
-    padding-left:20px;
-    padding-right:20px;
-}
-
-.collapse{
-    text-align:center;
-}
->>>>>>> origin/master
-=======
->>>>>>> parent of 502648a... Questiosn added to FAQ and size fixed.
