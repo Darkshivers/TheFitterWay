@@ -207,13 +207,30 @@ body {
 }
 
 .margin {
-margin-left:auto;
-margin-right:auto;
-width:98%;
+    margin-left:auto;
+    margin-right:auto;
+    width:98%;
     padding-top:10px;
     margin-bottom:10px;
- border-bottom: solid; 
- border-radius:1px;  
-border-color:#BF1e2e;
+    border-bottom: solid; 
+    border-radius:1px;  
+    border-color:#BF1e2e;
 }
 
+.container{
+    margin-top:10px;
+    width: 100%;
+    padding-left:20px;
+    padding-right:20px;
+    text-align:center;
+}
+
+.btn-group-vertical{
+    width: 100%;
+    padding-left:20px;
+    padding-right:20px;
+}
+
+.collapse{
+    text-align:center;
+}
