@@ -72,7 +72,15 @@ body {
     margin-bottom:0;
     position: fixed;
     width: 100%;
+
 }
+
+.nav a {
+    color:white;
+}
+
+
+
 
 /*Carousel style */
 .carousel-inner > .item > img {
@@ -91,6 +99,10 @@ body {
     margin-bottom:40px;
 
 
+}
+
+.panel-primary{
+    border-style:none;
 }
 
 #subscribe h1, label {
@@ -144,7 +156,7 @@ body {
 }
 
 .glyphicon {
-    font-size: 3.5em;
+    font-size: 5.5em;
     color:#BF1e2e;
 }
 
@@ -154,18 +166,30 @@ body {
 
 #appDetails {
 
+    width:50%;
     height:auto;
-    width:90%;
-    min-width:5%;
-    padding-top:50px;
-    padding-bottom:50px;
-    padding-left:8%;
-    margin-left:auto;
-    margin-right:auto;
+    padding-top:200px;
+    padding-right:10px;
+    float:right;
+
+}
+
+#iphone {
+
+    float:left;
+    margin:0,auto;
+    height:auto;
+    width:10%;
 
 
 }
 
+#appfeatures {
+
+    margin-left:auto;
+    margin-right:auto;
+    width:100%;
+}
 #appDetails p, h4 {
 
     font-weight:bold;
@@ -276,3 +300,4 @@ body {
 #feedback a:hover { 
   background: #06c; 
 }
+
