@@ -184,6 +184,14 @@ body {
 
 }
 
+.navbar .nav > li > a {
+  
+    color:  white;
+}
+
+.navbar-brand {
+    color:white;
+}
 #faq {
 
     padding-bottom:60px;
